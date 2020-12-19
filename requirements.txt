@@ -1,7 +1,7 @@
 # Use latest version of awesome slugify
 awesome-slugify>=1.6.5
 
-Django>=2.1.1
+Django>=2.2
 Pillow>=5.2.0
 
 beautifulsoup4==4.6.3
